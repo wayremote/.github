@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-Mobilidade • Rastreamento • Navegação Inteligente • Gestão Remota
+  • Rastreamento • Navegação Inteligente • Gestão Remota
 </p>
 
 ---
